@@ -31,7 +31,7 @@ an organization creates a central location to access all hackweek content.
 GitHub organizations also have 'teams' that offer simple ways to provide repository
 access to groups of people, rather than individuals.
 
-We have created a {{ hackweek }} GitHub organization ({{ github_org_url}}).
+We have created a CryoCloud [GitHub organization](https://github.com/CryoInTheCloud).
 For security purposes you can only join the organization by invitation.
 Here are the steps:
 
@@ -42,7 +42,7 @@ Here are the steps:
 
 ## How should I configure my GitHub account?
 
-As you'll learn in the next lesson, we will use the {{ hackweek }} GitHub
+As you'll learn in the next lesson, we will use the CryoCloud GitHub
 organization as a way to manage access to our cloud computing resources.
 
 ```{attention}

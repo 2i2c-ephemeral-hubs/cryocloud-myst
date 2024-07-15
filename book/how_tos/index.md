@@ -26,4 +26,3 @@ will be useful for working on a JupyterHub, and examples for accessing data from
 
 These pages are a work in progress and we welcome ideas for improvements or pages that would be helpful to 
 have included here.
- 

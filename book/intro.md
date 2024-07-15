@@ -28,10 +28,12 @@ The CryoCloud is a JupyterHub built for NASA Cryosphere communities in partnersh
 💡 Learn more about the CryoCloud hosted by the [Colorado School of Mines Glaciology Laboratory](https://glaciology.mines.edu/) by contacting us: cryocloud (at) mines.edu
 
 ## Funding Sources
+
 ![funder logos](/img/funderlogos.png)
 
 :::{admonition} Quick links for the event
 :class: seealso
-* JupyterHub: {{ jupyterhub_url }}
-* GitHub organization: {{ github_org_url}}
+
+* JupyterHub: [https://hub.cryointhecloud.com](https://hub.cryointhecloud.com)
+* GitHub organization: [https://github.com/CryoInTheCloud](https://github.com/CryoInTheCloud)
 :::

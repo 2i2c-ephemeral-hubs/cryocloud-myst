@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 577d3f24-d7c7-41ce-a3c4-07583cf4feab
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/2i2c-nasa-binder-access/cryocloud-myst
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+     logo: ./logo.png

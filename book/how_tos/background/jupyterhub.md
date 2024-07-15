@@ -12,17 +12,17 @@ We encourage you to use these shared cloud environments for all the tutorials, a
 (accessing-jupyterhub)=
 ## How do I access the shared cloud environment?
 
-Access to our shared cloud environment (JupyterHub) is under this URL: {{ jupyterhub_url }}!
+Access to our shared cloud environment (JupyterHub) is under this URL: [](https://hub.cryointhecloud.com)!
 
 ### First time login
 
 ```{attention}
-Before going to {{ jupyterhub_url }} you need to setup your {{ hackweek }}
+Before going to [](https://hub.cryointhecloud.com) you need to setup your CryoCloud
 organization membership correctly. See: {ref}`configure-github`
 ```
 
 The first time you sign in, you will be asked to authorize the OAuth app as access
-to the JupyterHub is restricted to {{ hackweek }} GitHub Organization members.
+to the JupyterHub is restricted to CryoCloud GitHub Organization members.
 
 ```{note}
 The screenshots below will not exactly match what you see and you should see your

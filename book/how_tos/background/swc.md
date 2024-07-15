@@ -12,7 +12,7 @@ Please take a minute before the workshop to go over the [GitHub instructions](./
 create an account.
 
 ```{attention}
-We will be using the JupyterHub ({{ jupyterhub_url }}) throughout this workshop.
+We will be using the JupyterHub [](https://hub.cryointhecloud.com) throughout this workshop.
 We encourage you to test your [connection to JupyterHub](jupyterhub) before the training.
 ```
 

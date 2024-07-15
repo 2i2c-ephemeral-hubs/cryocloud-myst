@@ -1,6 +1,7 @@
 # GitHub
 
 ## What is GitHub?
+
 [GitHub](https://github.com) is a hosting service for {term}`Git` repositories,
 enabling us to share code across teams in a web environment.
 
@@ -50,8 +51,7 @@ in order for our JupyterHub authentication to work. For events like hackweeks,
 public membership also helps so that others can recognize your participation in the event!
 ```
 
-First, navigate to the "People" tab on the {{ hackweek }} GitHub organization
-({{ github_org_url }}) and find yourself:
+First, navigate to the "People" tab on the CryoCloud [GitHub organization](https://github.com/CryoInTheCloud) and find yourself:
 
 ![people-tab](../../img/people-github.png)
 
@@ -63,8 +63,8 @@ The steps for doing this are also well documented on [this](https://help.github.
 
 ## How will GitHub repositories be structured?
 
-When you click on the "Repositories" tab in the {{ '[GitHub organization]({url})'.format(url=github_org_url) }}  you will see a list of names, each of which links to a separate GitHub repository:
+When you click on the "Repositories" tab in the [GitHub Organization](https://github.com/CryoInTheCloud) you will see a list of names, each of which links to a separate GitHub repository:
 
 ![repos-tab](../../img/repos.png)
 
-Each repository is a container for a specific subset of material for this event. For example, there is a repository for the public-facing website you used to register for this event {{website_url}}. We'll also create new repositories for each project.
+Each repository is a container for a specific subset of material for this event. For example, there is a repository for the public-facing website you used to register for this event [https://cryointhecloud.com](https://cryointhecloud.com). We'll also create new repositories for each project.

@@ -14,7 +14,7 @@ dependencies:
   # Required until https://github.com/jupyterhub/repo2docker/pull/1196 is merged
   - jupyterhub-singleuser~=4.0.1
   # nbgitpuller is very helpful when distributing user content
-  - nbgitpuller~=1.2.0
+  - nbgitpuller~=1.2.1
   # Specify major version of jupyterlab to use. Manually bump it when you want to upgrade
   # jupyterlab version
   - jupyterlab>=4.0,<4.1
@@ -48,7 +48,6 @@ dependencies:
   - sphinxcontrib-bibtex
   - markupsafe~=2.1.5
   - myst-nb~=1.1.1
-  - jupytext
   # For building Team Splashpage
   - cookiecutter
   # Dependencies of jinja-markdown

@@ -25,8 +25,6 @@ dependencies:
   - jupyterlab_pygments~=0.3.0 # To bring extension uptodate
   - jupytext~=1.16.1
   - nbdime~=4.0.1
-  - nodejs>=20,,<21
-  - mystmd
 
   # Core scientific python stack
   - cython==0.29.32 # optimization, C API access
